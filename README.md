@@ -1,2 +1,2 @@
-# Gitrepotest
-Simple test for creating a repo for learning.
+# Test Gitrepo 
+Simple test for creating a Github repo in website for learning and its desktop app.
