@@ -2,4 +2,4 @@
 Simple test for creating a Github repo in website  for learning and its desktop app.
 
 This is for the Development purpose. 
-linkedin.com/in/siddhu-27b13919
+url = "linkedin.com/in/siddhu-27b13919"
